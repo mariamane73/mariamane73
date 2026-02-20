@@ -3,7 +3,7 @@
 Estudante de **Engenharia Informática** na Universidade de Aveiro.
 
 <p align="center">
-  <a href="https://linkedin.com/in/teu-linkedin">
+  <a href="www.linkedin.com/in/maria-mané-3173b13b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
